@@ -42,3 +42,32 @@
   <br>
   <br>
 </p>
+
+## How to use
+```
+To compile the program:
+```
+To run the program:
+```
+$ python3 <src/nama_file>
+```
+
+## Screenshots
+
+### Program Screenshot
+![Dashboard](screenshots/kai1.png)
+![Dashboard](screenshots/kai2.png)
+![Dashboard](screenshots/kai3.png)
+
+### CSV Example
+![CSV](screenshots/kai4.png)
+
+
+## Reference
+[Dash Python](http://dash-docs.herokuapp.com/)
+
+
+## Author
+
+<h3> Timothy Thamrin Andrew H. Sihombing </h3>
+<h3> 13516090 </h3>
